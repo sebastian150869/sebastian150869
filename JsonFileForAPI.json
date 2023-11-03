@@ -1,5 +1,4 @@
-[
-    {
+[{
       "ENAME": "SMITH",
       "COMM": null,
       "HIREDATE": "17-12-1980",
@@ -168,5 +167,4 @@
       "JOB": "",
       "DEPTNO": null,
       "SAL": 1300
-    }
-  ]
+    }]
