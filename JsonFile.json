@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "ENAME": "SMITH",
+      "COMM": null,
+      "HIREDATE": "17-12-1980",
+      "EMPNO": 7369,
+      "MGR": 7788,
+      "JOB": "CLERK",
+      "DEPTNO": 20,
+      "SAL": 800
+    },
+    {
+      "ENAME": "SMITH",
+      "COMM": null,
+      "HIREDATE": "17-12-1980",
+      "EMPNO": 7369,
+      "MGR": 7788,
+      "JOB": "CLERK",
+      "DEPTNO": 20,
+      "SAL": 800
+    },
+    {
+      "ENAME": "SMITH",
+      "COMM": null,
+      "HIREDATE": "17-12-1980",
+      "EMPNO": 7369,
+      "MGR": 7788,
+      "JOB": "CLERK",
+      "DEPTNO": 20,
+      "SAL": 800
+    },
+    {
+      "ENAME": "TEST",
+      "COMM": null,
+      "HIREDATE": "17-12-1980",
+      "EMPNO": 7369,
+      "MGR": 7788,
+      "JOB": "CLERK",
+      "DEPTNO": 20,
+      "SAL": 800
+    },
+    {
+      "ENAME": "ALLEN",
+      "COMM": 300,
+      "HIREDATE": "20-02-1981",
+      "EMPNO": 7499,
+      "MGR": 7698,
+      "JOB": "SALESMAN",
+      "DEPTNO": 30,
+      "SAL": 1600
+    },
+    {
+      "ENAME": "WARD",
+      "COMM": 500,
+      "HIREDATE": "22-02-1981",
+      "EMPNO": 7521,
+      "MGR": 7698,
+      "JOB": "SALESMAN",
+      "DEPTNO": 30,
+      "SAL": 1250
+    },
+    {
+      "ENAME": "JONES",
+      "COMM": null,
+      "HIREDATE": "02-04-1981",
+      "EMPNO": 7566,
+      "MGR": 7839,
+      "JOB": "MANAGER",
+      "DEPTNO": null,
+      "SAL": 2975
+    },
+    {
+      "ENAME": "MARTIN",
+      "COMM": 1400,
+      "HIREDATE": "28-09-1981",
+      "EMPNO": 7654,
+      "MGR": 7698,
+      "JOB": "SALESMAN",
+      "DEPTNO": 30,
+      "SAL": 2050
+    },
+    {
+      "ENAME": "BLAKE",
+      "COMM": null,
+      "HIREDATE": "01-05-1981",
+      "EMPNO": 7698,
+      "MGR": 7839,
+      "JOB": "MANAGER",
+      "DEPTNO": 30,
+      "SAL": 2850
+    },
+    {
+      "ENAME": "CLARK",
+      "COMM": null,
+      "HIREDATE": "09-06-1981",
+      "EMPNO": 7782,
+      "MGR": 7839,
+      "JOB": "MANAGER",
+      "DEPTNO": 10,
+      "SAL": 2450
+    },
+    {
+      "ENAME": "SCOTT",
+      "COMM": null,
+      "HIREDATE": "19-04-1987",
+      "EMPNO": 7788,
+      "MGR": 7566,
+      "JOB": "ANALYST",
+      "DEPTNO": 20,
+      "SAL": 3000
+    },
+    {
+      "ENAME": "KING",
+      "COMM": null,
+      "HIREDATE": "17-11-1981",
+      "EMPNO": 7839,
+      "MGR": null,
+      "JOB": "PRESIDENT",
+      "DEPTNO": 10,
+      "SAL": 5000
+    },
+    {
+      "ENAME": "TURNER",
+      "COMM": 0,
+      "HIREDATE": "08-09-1981",
+      "EMPNO": 7844,
+      "MGR": 7698,
+      "JOB": "SALESMAN",
+      "DEPTNO": 30,
+      "SAL": 1500
+    },
+    {
+      "ENAME": "ADAMS",
+      "COMM": null,
+      "HIREDATE": "23-05-1987",
+      "EMPNO": 7876,
+      "MGR": 7788,
+      "JOB": "CLERK",
+      "DEPTNO": 20,
+      "SAL": 1100
+    },
+    {
+      "ENAME": "JAMES",
+      "COMM": null,
+      "HIREDATE": "03-12-1981",
+      "EMPNO": 7900,
+      "MGR": 7698,
+      "JOB": "ANALYST",
+      "DEPTNO": 30,
+      "SAL": 950
+    },
+    {
+      "ENAME": "FORD",
+      "COMM": null,
+      "HIREDATE": "03-12-1981",
+      "EMPNO": 7902,
+      "MGR": 7566,
+      "JOB": "ANALYST",
+      "DEPTNO": 20,
+      "SAL": 3000
+    },
+    {
+      "ENAME": "MILLER",
+      "COMM": null,
+      "HIREDATE": "23-01-1982",
+      "EMPNO": 7934,
+      "MGR": 7782,
+      "JOB": "",
+      "DEPTNO": null,
+      "SAL": 1300
+    }
+  ]
+}
